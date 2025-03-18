@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a biologist passionate about working with multidiciplinary teams on quality control, research and development with biotechnology, food safety, medicine, microbiology, virology, industry and technology.
+I have 8 years of experience detecting biologicalhazards in foods, 4 of them dedicated to directing and coordinatingprojects using data-driven analysis. I am directed to the professional growth of food safety in my country. I easily adapt to the work role,undertaking with leadership and determination. I consider myself aperson with the determination to continuously improve, proactive,organized, responsible, capable of solving any difficulty independently orin a team, creative and precise.
 <!--
 **AntSos/AntSos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
